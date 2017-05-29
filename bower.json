@@ -8,7 +8,7 @@
     "bower.json"
   ],
   "dependencies": {
-    "cldrjs": "^0.4.4"
+    "cldrjs": "wwwouter/cldrjs"
   },
   "devDependencies": {
     "cldr-data": ">=25",
